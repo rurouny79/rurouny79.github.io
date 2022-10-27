@@ -7,3 +7,6 @@ layout: post
 ---
 
 This is an about page.
+
+name(nickname) : rurouny79
+programmer
